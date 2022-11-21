@@ -1,10 +1,9 @@
 #!/bin/bash
 
 # Revise to check for offsite being available, sync if so
-# rsync -avAX --delete --force --exclude={"*._*","._*"} --delete-excluded '/mnt/pond-1/nextcloud/Hobbies/Body/estim/google drive/' '/mnt/pond/media/Plex Media/Other - Audio/google drive'
 
 # configure auto-run with sudo crontab -e
-# 0 2 * * * '/home/nuthanael/Documents/backup.sh'
+# 0 2 * * * '/path/to/folder/backup.sh'
 
 # ---- Restic Info ----
 # TODO
