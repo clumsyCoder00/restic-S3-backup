@@ -1,0 +1,6 @@
+*.localized
+*.DS_Store
+*._*
+/.zfs/***
+./zfs/
+*/.Trash*
